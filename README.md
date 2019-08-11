@@ -1,4 +1,7 @@
 # VerticalFog
+
+![](Fog.png)
+
 Simple Unity3d shader for creating depth effect by using only one sided plane.
 
 ## :clipboard: Meta
